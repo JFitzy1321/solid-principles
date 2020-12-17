@@ -1,9 +1,0 @@
-C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPLibrary\bin\Debug\netstandard2.0\LSPLibrary.deps.json
-C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPLibrary\bin\Debug\netstandard2.0\LSPLibrary.dll
-C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPLibrary\bin\Debug\netstandard2.0\LSPLibrary.pdb
-C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPLibrary\obj\Debug\netstandard2.0\LSPLibrary.csprojAssemblyReference.cache
-C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPLibrary\obj\Debug\netstandard2.0\LSPLibrary.csproj.CoreCompileInputs.cache
-C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPLibrary\obj\Debug\netstandard2.0\LSPLibrary.AssemblyInfoInputs.cache
-C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPLibrary\obj\Debug\netstandard2.0\LSPLibrary.AssemblyInfo.cs
-C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPLibrary\obj\Debug\netstandard2.0\LSPLibrary.dll
-C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPLibrary\obj\Debug\netstandard2.0\LSPLibrary.pdb
