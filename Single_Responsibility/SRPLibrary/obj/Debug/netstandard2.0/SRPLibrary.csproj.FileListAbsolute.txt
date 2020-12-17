@@ -1,0 +1,9 @@
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPLibrary\bin\Debug\netstandard2.0\SRPLibrary.deps.json
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPLibrary\bin\Debug\netstandard2.0\SRPLibrary.dll
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPLibrary\bin\Debug\netstandard2.0\SRPLibrary.pdb
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPLibrary\obj\Debug\netstandard2.0\SRPLibrary.csprojAssemblyReference.cache
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPLibrary\obj\Debug\netstandard2.0\SRPLibrary.csproj.CoreCompileInputs.cache
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPLibrary\obj\Debug\netstandard2.0\SRPLibrary.AssemblyInfoInputs.cache
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPLibrary\obj\Debug\netstandard2.0\SRPLibrary.AssemblyInfo.cs
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPLibrary\obj\Debug\netstandard2.0\SRPLibrary.dll
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPLibrary\obj\Debug\netstandard2.0\SRPLibrary.pdb

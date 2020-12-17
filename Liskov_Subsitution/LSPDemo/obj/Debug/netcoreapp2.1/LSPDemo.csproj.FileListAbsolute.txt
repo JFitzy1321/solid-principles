@@ -1,0 +1,14 @@
+C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPDemo\bin\Debug\netcoreapp2.1\LSPDemo.deps.json
+C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPDemo\bin\Debug\netcoreapp2.1\LSPDemo.runtimeconfig.json
+C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPDemo\bin\Debug\netcoreapp2.1\LSPDemo.runtimeconfig.dev.json
+C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPDemo\bin\Debug\netcoreapp2.1\LSPDemo.dll
+C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPDemo\bin\Debug\netcoreapp2.1\LSPDemo.pdb
+C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPDemo\bin\Debug\netcoreapp2.1\LSPLibrary.dll
+C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPDemo\bin\Debug\netcoreapp2.1\LSPLibrary.pdb
+C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPDemo\obj\Debug\netcoreapp2.1\LSPDemo.csprojAssemblyReference.cache
+C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPDemo\obj\Debug\netcoreapp2.1\LSPDemo.csproj.CoreCompileInputs.cache
+C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPDemo\obj\Debug\netcoreapp2.1\LSPDemo.AssemblyInfoInputs.cache
+C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPDemo\obj\Debug\netcoreapp2.1\LSPDemo.AssemblyInfo.cs
+C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPDemo\obj\Debug\netcoreapp2.1\LSPDemo.csproj.CopyComplete
+C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPDemo\obj\Debug\netcoreapp2.1\LSPDemo.dll
+C:\dev\SOLIDPrinciples\LIskov_Subsitution\LSPDemo\obj\Debug\netcoreapp2.1\LSPDemo.pdb

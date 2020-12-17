@@ -1,0 +1,9 @@
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPLibrary\bin\Debug\netstandard2.0\DIPLibrary.deps.json
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPLibrary\bin\Debug\netstandard2.0\DIPLibrary.dll
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPLibrary\bin\Debug\netstandard2.0\DIPLibrary.pdb
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPLibrary\obj\Debug\netstandard2.0\DIPLibrary.csprojAssemblyReference.cache
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPLibrary\obj\Debug\netstandard2.0\DIPLibrary.csproj.CoreCompileInputs.cache
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPLibrary\obj\Debug\netstandard2.0\DIPLibrary.AssemblyInfoInputs.cache
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPLibrary\obj\Debug\netstandard2.0\DIPLibrary.AssemblyInfo.cs
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPLibrary\obj\Debug\netstandard2.0\DIPLibrary.dll
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPLibrary\obj\Debug\netstandard2.0\DIPLibrary.pdb

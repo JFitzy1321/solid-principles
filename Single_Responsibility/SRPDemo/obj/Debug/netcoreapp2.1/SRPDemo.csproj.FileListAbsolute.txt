@@ -1,0 +1,14 @@
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPDemo\bin\Debug\netcoreapp2.1\SRPDemo.deps.json
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPDemo\bin\Debug\netcoreapp2.1\SRPDemo.runtimeconfig.json
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPDemo\bin\Debug\netcoreapp2.1\SRPDemo.runtimeconfig.dev.json
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPDemo\bin\Debug\netcoreapp2.1\SRPDemo.dll
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPDemo\bin\Debug\netcoreapp2.1\SRPDemo.pdb
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPDemo\bin\Debug\netcoreapp2.1\SRPLibrary.dll
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPDemo\bin\Debug\netcoreapp2.1\SRPLibrary.pdb
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPDemo\obj\Debug\netcoreapp2.1\SRPDemo.csprojAssemblyReference.cache
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPDemo\obj\Debug\netcoreapp2.1\SRPDemo.csproj.CoreCompileInputs.cache
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPDemo\obj\Debug\netcoreapp2.1\SRPDemo.AssemblyInfoInputs.cache
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPDemo\obj\Debug\netcoreapp2.1\SRPDemo.AssemblyInfo.cs
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPDemo\obj\Debug\netcoreapp2.1\SRPDemo.csproj.CopyComplete
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPDemo\obj\Debug\netcoreapp2.1\SRPDemo.dll
+C:\dev\SOLIDPrinciples\Single_Responsibility\SRPDemo\obj\Debug\netcoreapp2.1\SRPDemo.pdb

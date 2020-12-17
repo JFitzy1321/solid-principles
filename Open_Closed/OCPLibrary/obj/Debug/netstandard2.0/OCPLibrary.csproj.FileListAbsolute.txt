@@ -1,0 +1,9 @@
+C:\dev\SOLIDPrinciples\Open_Closed\OCPLibrary\obj\Debug\netstandard2.0\OCPLibrary.csprojAssemblyReference.cache
+C:\dev\SOLIDPrinciples\Open_Closed\OCPLibrary\obj\Debug\netstandard2.0\OCPLibrary.csproj.CoreCompileInputs.cache
+C:\dev\SOLIDPrinciples\Open_Closed\OCPLibrary\obj\Debug\netstandard2.0\OCPLibrary.AssemblyInfoInputs.cache
+C:\dev\SOLIDPrinciples\Open_Closed\OCPLibrary\obj\Debug\netstandard2.0\OCPLibrary.AssemblyInfo.cs
+C:\dev\SOLIDPrinciples\Open_Closed\OCPLibrary\bin\Debug\netstandard2.0\OCPLibrary.deps.json
+C:\dev\SOLIDPrinciples\Open_Closed\OCPLibrary\bin\Debug\netstandard2.0\OCPLibrary.dll
+C:\dev\SOLIDPrinciples\Open_Closed\OCPLibrary\bin\Debug\netstandard2.0\OCPLibrary.pdb
+C:\dev\SOLIDPrinciples\Open_Closed\OCPLibrary\obj\Debug\netstandard2.0\OCPLibrary.dll
+C:\dev\SOLIDPrinciples\Open_Closed\OCPLibrary\obj\Debug\netstandard2.0\OCPLibrary.pdb

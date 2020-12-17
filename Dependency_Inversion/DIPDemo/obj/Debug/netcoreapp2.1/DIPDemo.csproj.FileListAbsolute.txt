@@ -1,0 +1,14 @@
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPDemo\bin\Debug\netcoreapp2.1\DIPDemo.deps.json
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPDemo\bin\Debug\netcoreapp2.1\DIPDemo.runtimeconfig.json
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPDemo\bin\Debug\netcoreapp2.1\DIPDemo.runtimeconfig.dev.json
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPDemo\bin\Debug\netcoreapp2.1\DIPDemo.dll
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPDemo\bin\Debug\netcoreapp2.1\DIPDemo.pdb
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPDemo\bin\Debug\netcoreapp2.1\DIPLibrary.dll
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPDemo\bin\Debug\netcoreapp2.1\DIPLibrary.pdb
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPDemo\obj\Debug\netcoreapp2.1\DIPDemo.csprojAssemblyReference.cache
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPDemo\obj\Debug\netcoreapp2.1\DIPDemo.csproj.CoreCompileInputs.cache
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPDemo\obj\Debug\netcoreapp2.1\DIPDemo.AssemblyInfoInputs.cache
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPDemo\obj\Debug\netcoreapp2.1\DIPDemo.AssemblyInfo.cs
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPDemo\obj\Debug\netcoreapp2.1\DIPDemo.csproj.CopyComplete
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPDemo\obj\Debug\netcoreapp2.1\DIPDemo.dll
+c:\dev\SOLIDPrinciples\Dependency_Inversion\DIPDemo\obj\Debug\netcoreapp2.1\DIPDemo.pdb
